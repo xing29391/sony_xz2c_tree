@@ -1,6 +1,6 @@
 # Sony Xperia XZ2 Compact (xz2c / apollo / H8324) 设备树 — Android 17
 
-从 PixelOS 17（Android 17 / API 37）实际构建树导出的设备树源码，已针对 xz2c 做 A17 适配。
+从 PixelOS 17（Android 17 / API 37）实际构建树导出的设备树源码。原始版本来自 LineageOS 23（Android 16）的 tama 设备树，已针对 A17 + 4.9 内核做适配（manifest/FCM、fstab、sepolicy、overlay 等）。
 
 目录结构与 AOSP 源码树一致，直接放到源码树根目录：
 
